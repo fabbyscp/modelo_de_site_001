@@ -2,6 +2,8 @@
 
 Este projeto e um modelo de site gratuito feito para qualquer pessoa baixar, editar e usar como base para seu proprio projeto.
 
+Acesse aqui para conhecer o modelo: https://fabbyscp.github.io/modelo_de_site_001/
+
 Ele foi construido com tecnologias simples e acessiveis:
 
 - HTML
